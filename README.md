@@ -17,7 +17,8 @@ Data hails from [SQL Course](https://lukebarousse.com/sql). It's packed with ins
 # Tools I used
 For my deep dive into the Data Analyst job market, I used several key tools:
 - **SQL:** The backbone of my analysis, allowing me to query the database and unearth critical insights.
-- **PostgreSQL:** The chosen database management system, idel for handling the job posting data.
+- **Python** Libraries such as *Matplotlib and Seaborn* helped enourmously in visualizing the data.
+- **PostgreSQL:** The chosen database management system, ideal for handling the job posting data.
 - **Visual Studio Code:** My go-to for database management and executing and executing SQL queries.
 - **Git & GitHub:** Essential for version control and sharing my SQL scripts and analysis, ensuring collaboration and project tracking.
 # The Analysis
