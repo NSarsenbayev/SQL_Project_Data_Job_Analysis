@@ -53,7 +53,7 @@ plt.xlabel("Average Salary $USD")
 plt.ylabel("")
 plt.show()
 ```
-![Top paying roles](project_sql\images\Top_10_paying_jobs.png)
+![Top paying roles](project_sql/images/Top_10_paying_jobs.png)
 *Bar graph visualizing the salary frothe top 10 salaries for data analysts
 
 # Insights
@@ -95,7 +95,7 @@ plt.xlabel("")
 plt.ylabel("Demand Count")
 plt.show()
 ```
-![Top Demanded Skills](project_sql\images\Top_in_demand_skills.png)
+![Top Demanded Skills](project_sql/images/Top_in_demand_skills.png)
 *Bar graph visualizes the most demanded skills for Data Analyst in 2023 in the US.
 
 # Insights
@@ -132,7 +132,7 @@ plt.xlabel("Average Salary $USD")
 plt.ylabel("")
 plt.show()
 ```
-![Top_paying_skills](project_sql\images\Top_paying_skills.png)
+![Top_paying_skills](project_sql/images/Top_paying_skills.png)
 *Bar graph visualizes top paying skills in Data Analysis
 
 # Insights
@@ -170,7 +170,7 @@ plt.xlabel("Average Salary $USD")
 plt.ylabel("")
 plt.show()
 ```
-![Optimal_skills](project_sql\images\Optimal_skills.png)
+![Optimal_skills](project_sql/images/Optimal_skills.png)
 *The bar graph visualizes Optimal skills for Data Analysis roles combining high salaries and high demand in the market.
 
 # What I learned
